@@ -53,7 +53,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assests/cats.json
-  #   - images/a_dot_burr.jpeg
+    - images/profile_header_background.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
