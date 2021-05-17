@@ -52,6 +52,7 @@ class _BoardAppState extends State<BoardApp> {
   _showDialog(BuildContext context) async {
     await showDialog(
         builder: (context) => AlertDialog(
+          
               contentPadding: EdgeInsets.all(10),
               content: Column(
                 children: [
